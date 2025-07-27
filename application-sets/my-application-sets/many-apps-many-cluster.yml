@@ -21,7 +21,7 @@ spec:
     spec:
       project: default'
       source:
-        repoURL: https://ArditDatlas/gitops-cert-level-2-examples.git
+        repoURL: https://github.com/ArditDatlas/gitops-cert-level-2-examples.git
         targetRevision: HEAD
         path: '{{path}}'
       destination:
